@@ -1,9 +1,9 @@
 # GINITTER
 
-##Just Rate Limiter
+## Just Rate Limiter
 this middleware is for speed limiting in gin framework projects. Stay safe!
 
-##Usage
+## Usage
 
 ### Rate Limiter
 
